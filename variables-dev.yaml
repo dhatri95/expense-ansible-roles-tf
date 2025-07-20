@@ -2,3 +2,4 @@ login_host: db-dev.cloudevops.shop
 login_password: ExpenseApp1
 DB_HOST: db-dev.cloudevops.shop
 BACKEND_API_URL: backend-dev.cloudevops.shop
+mysql_root_password: ExpenseApp1
